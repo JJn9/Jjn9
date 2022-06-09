@@ -1,6 +1,6 @@
 ### Full-Stack developper 🪐
 
-Favorite technologies : Vue.js, Spring, Flask, GraphQL/Apollo/Hasura, MongoDB...
+Favorite technologies : React.js, Vue.js, Spring, Flask, GraphQL, MongoDB...
 
 <!--
 **AlexandreLedru/AlexandreLedru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
